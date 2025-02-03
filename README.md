@@ -1,6 +1,7 @@
 🏥 Diabetes Prediction using Machine Learning
 
 📌 *Project Overview*
+
 This project aims to predict whether a patient has diabetes based on key health indicators. The model is trained using machine learning algorithms on a dataset containing medical records. The objective is to assist in early diagnosis and risk assessment.
 
 
@@ -39,6 +40,7 @@ Outcome – (0 = No Diabetes, 1 = Diabetes)
 
 
 🚀 *Machine Learning Workflow*
+
 Data Preprocessing – Handling missing values, feature scaling, and normalization.
 Exploratory Data Analysis (EDA) – Identifying patterns and correlations.
 Model Training – Using classification algorithms like:
